@@ -76,7 +76,7 @@
           "localized": true
         }
       },
-      "unique": true
+      "unique": false
     },
     "time_to_read": {
       "type": "string",
