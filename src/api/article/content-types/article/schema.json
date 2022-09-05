@@ -69,7 +69,7 @@
       }
     },
     "slug": {
-      "type": "json",
+      "type": "string",
       "required": true,
       "pluginOptions": {
         "i18n": {
