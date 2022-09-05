@@ -79,7 +79,7 @@
       "unique": true
     },
     "time_to_read": {
-      "type": "string",
+      "type": "json",
       "required": true,
       "pluginOptions": {
         "i18n": {
