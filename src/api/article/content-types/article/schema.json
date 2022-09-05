@@ -69,7 +69,7 @@
       }
     },
     "slug": {
-      "type": "string",
+      "type": "json",
       "required": true,
       "pluginOptions": {
         "i18n": {
@@ -79,7 +79,7 @@
       "unique": true
     },
     "time_to_read": {
-      "type": "json",
+      "type": "string",
       "required": true,
       "pluginOptions": {
         "i18n": {
