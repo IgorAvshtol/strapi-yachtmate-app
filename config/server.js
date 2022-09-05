@@ -12,7 +12,7 @@ module.exports = ({ env }) => ({
   port: 1337,
   app: {
     // keys: env.array('APP_KEYS'),
-    jwtSecret: 'uUhcG7KGoFFMiCBKhNzsBQ==',
+    jwtSecret: env('JWT_SECRET'),
     keys: [
       '4Z1aDwt6Q0Dfm9Jbjdo9TA==','yY7/BbtoBarNsH5Z1oy7fA==','K9xhZmT74waPwYuYS2AsvA==','7c23V75daGdoQxNxsuex2A=='
       ],
