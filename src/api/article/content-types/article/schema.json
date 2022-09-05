@@ -88,7 +88,7 @@
       }
     },
     "meta_title": {
-      "type": "text",
+      "type": "json",
       "pluginOptions": {
         "i18n": {
           "localized": true
